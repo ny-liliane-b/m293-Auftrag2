@@ -5,7 +5,6 @@
 }
 
 body {
-    /* background-color: #121212; */
     background: linear-gradient(50deg, #2f2a50, #151515, #512a2a);
     color: white;
     font-family: Arial, sans-serif;
@@ -40,7 +39,7 @@ header h1 {
 }
 
 .card:hover {
-    transform: scale(1.25);
+    transform: scale(1.1);
 }
 
 .card img {
